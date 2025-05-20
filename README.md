@@ -1,6 +1,6 @@
 ## Hello World! I'm M. Farid Zulianto 👋
 
-![mfaridzulianto](github-header-image.png)
+![mfaridzulianto](img/github-header-image.png)
 <!--
 **mfaridzulianto/mfaridzulianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
