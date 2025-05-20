@@ -1,4 +1,4 @@
-## Hello World! I'm M. Farid Zulianto 👋
+## Hello World! I'm M. Farid Zulianto 👋 
 
 ![mfaridzulianto](img/github-header-image.png)
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
